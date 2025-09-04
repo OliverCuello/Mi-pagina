@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Biografía y Horario</title>
+</head>
+<body>
+    <h1>Mi Página Personal</h1>
+
+    <h2>Datos Biográficos</h2>
+    <img src="Foto-pagina.jpg" alt="Foto de Oliver Cuello" width="150">
+    <p><b>Mi nombre es Oliver Cuello</b></p>
+    <p>Soy estudiante de la carrera de <b>Licenciatura en Informática</b>.</p>
+    <p>Quiero aprender y desarrollarme en el área de la tecnología.</p>
+    <p>Tengo 23 anos y mi sede es Santo Domingo</p>
+    <h2>Horario de Clases</h2>
+    <table border="1">
+        <tr>
+            <th>Día</th>
+            <th>Materia</th>
+            <th>Hora</th>
+            <th>Aula</th>
+        </tr>
+        <tr>
+            <td>Lunes</td>
+            <td>Calculo II</td>
+            <td>8:00 - 10:00 AM</td>
+            <td>B-201</td>
+        </tr>
+        <tr>
+            <td>Martes</td>
+            <td>Programación II</td>
+            <td>2:00 - 4:00 PM</td>
+            <td>A-105</td>
+        </tr>
+        <tr>
+            <td>Miércoles</td>
+            <td>Bases de Datos</td>
+            <td>10:00 - 12:00 PM</td>
+            <td>C-303</td>
+        </tr>
+        <tr>
+            <td>Jueves</td>
+            <td>Bioetica</td>
+            <td>4:00 - 6:00 PM</td>
+            <td>B-101</td>
+        </tr>
+        <tr>
+            <td>Viernes</td>
+            <td>Inglés Técnico</td>
+            <td>8:00 - 10:00 AM</td>
+            <td>D-202</td>
+        </tr>
+    </table>
+</body>
+</html>
